@@ -23,6 +23,13 @@
 		EAFC90931890EFC90061CA59 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAFC906E1890EFC90061CA59 /* Foundation.framework */; };
 		EAFC909B1890EFC90061CA59 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EAFC90991890EFC90061CA59 /* InfoPlist.strings */; };
 		EAFC909E1890EFC90061CA59 /* omikujiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EAFC909D1890EFC90061CA59 /* omikujiTests.m */; };
+		EAFC90AE1890F0F10061CA59 /* omikuji_daikichi.png in Resources */ = {isa = PBXBuildFile; fileRef = EAFC90A71890F0F10061CA59 /* omikuji_daikichi.png */; };
+		EAFC90AF1890F0F10061CA59 /* omikuji_chuukichi.png in Resources */ = {isa = PBXBuildFile; fileRef = EAFC90A81890F0F10061CA59 /* omikuji_chuukichi.png */; };
+		EAFC90B01890F0F10061CA59 /* omikuji_daikyou.png in Resources */ = {isa = PBXBuildFile; fileRef = EAFC90A91890F0F10061CA59 /* omikuji_daikyou.png */; };
+		EAFC90B11890F0F10061CA59 /* omikuji_kyou.png in Resources */ = {isa = PBXBuildFile; fileRef = EAFC90AA1890F0F10061CA59 /* omikuji_kyou.png */; };
+		EAFC90B21890F0F10061CA59 /* omikuji_suekichi.png in Resources */ = {isa = PBXBuildFile; fileRef = EAFC90AB1890F0F10061CA59 /* omikuji_suekichi.png */; };
+		EAFC90B31890F0F10061CA59 /* omikuji_syoukichi.png in Resources */ = {isa = PBXBuildFile; fileRef = EAFC90AC1890F0F10061CA59 /* omikuji_syoukichi.png */; };
+		EAFC90B41890F0F10061CA59 /* omikuji.png in Resources */ = {isa = PBXBuildFile; fileRef = EAFC90AD1890F0F10061CA59 /* omikuji.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +65,13 @@
 		EAFC909A1890EFC90061CA59 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EAFC909C1890EFC90061CA59 /* omikujiTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = omikujiTests.h; sourceTree = "<group>"; };
 		EAFC909D1890EFC90061CA59 /* omikujiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = omikujiTests.m; sourceTree = "<group>"; };
+		EAFC90A71890F0F10061CA59 /* omikuji_daikichi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = omikuji_daikichi.png; path = ../../janken/janken/omikuji_daikichi.png; sourceTree = "<group>"; };
+		EAFC90A81890F0F10061CA59 /* omikuji_chuukichi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = omikuji_chuukichi.png; path = ../../janken/janken/omikuji_chuukichi.png; sourceTree = "<group>"; };
+		EAFC90A91890F0F10061CA59 /* omikuji_daikyou.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = omikuji_daikyou.png; path = ../../janken/janken/omikuji_daikyou.png; sourceTree = "<group>"; };
+		EAFC90AA1890F0F10061CA59 /* omikuji_kyou.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = omikuji_kyou.png; path = ../../janken/janken/omikuji_kyou.png; sourceTree = "<group>"; };
+		EAFC90AB1890F0F10061CA59 /* omikuji_suekichi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = omikuji_suekichi.png; path = ../../janken/janken/omikuji_suekichi.png; sourceTree = "<group>"; };
+		EAFC90AC1890F0F10061CA59 /* omikuji_syoukichi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = omikuji_syoukichi.png; path = ../../janken/janken/omikuji_syoukichi.png; sourceTree = "<group>"; };
+		EAFC90AD1890F0F10061CA59 /* omikuji.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = omikuji.png; path = ../../janken/janken/omikuji.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +146,13 @@
 			children = (
 				EAFC90741890EFC90061CA59 /* omikuji-Info.plist */,
 				EAFC90751890EFC90061CA59 /* InfoPlist.strings */,
+				EAFC90A71890F0F10061CA59 /* omikuji_daikichi.png */,
+				EAFC90A81890F0F10061CA59 /* omikuji_chuukichi.png */,
+				EAFC90A91890F0F10061CA59 /* omikuji_daikyou.png */,
+				EAFC90AA1890F0F10061CA59 /* omikuji_kyou.png */,
+				EAFC90AB1890F0F10061CA59 /* omikuji_suekichi.png */,
+				EAFC90AC1890F0F10061CA59 /* omikuji_syoukichi.png */,
+				EAFC90AD1890F0F10061CA59 /* omikuji.png */,
 				EAFC90781890EFC90061CA59 /* main.m */,
 				EAFC907A1890EFC90061CA59 /* omikuji-Prefix.pch */,
 				EAFC907E1890EFC90061CA59 /* Default.png */,
@@ -236,6 +257,13 @@
 				EAFC90811890EFC90061CA59 /* Default@2x.png in Resources */,
 				EAFC90831890EFC90061CA59 /* Default-568h@2x.png in Resources */,
 				EAFC90861890EFC90061CA59 /* MainStoryboard.storyboard in Resources */,
+				EAFC90AE1890F0F10061CA59 /* omikuji_daikichi.png in Resources */,
+				EAFC90AF1890F0F10061CA59 /* omikuji_chuukichi.png in Resources */,
+				EAFC90B01890F0F10061CA59 /* omikuji_daikyou.png in Resources */,
+				EAFC90B11890F0F10061CA59 /* omikuji_kyou.png in Resources */,
+				EAFC90B21890F0F10061CA59 /* omikuji_suekichi.png in Resources */,
+				EAFC90B31890F0F10061CA59 /* omikuji_syoukichi.png in Resources */,
+				EAFC90B41890F0F10061CA59 /* omikuji.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
